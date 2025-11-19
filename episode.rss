@@ -62,6 +62,15 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+   <item>
+      <title>Episode 7777: Getting Started testing77</title>
+      <description>Something Something.</description>
+      <pubDate>Wed, 19 Nov 2025 05:37:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?id=1IyBwqr4j4pM5_KzD_E7eChxyhaHhocFZ&export=download" length="22000000" type="audio/mpeg"/>
+      <guid>episode-7-unique-id</guid>
+      <itunes:duration>30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     
   </channel>
 </rss>
