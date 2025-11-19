@@ -90,14 +90,14 @@
 
    <item>
       <title>Episode 8: ipsum ipsum</title>
-      <description>Description Ep7</description>
+      <description>Description Ep8</description>
       <pubDate>Thur, 20 Nov 2025 07:37:00 GMT</pubDate>
       <enclosure
         url="https://drive.google.com/uc?id=1IyBwqr4j4pM5_KzD_E7eChxyhaHhocFZ&amp;export=download"
         length="22000000"
         type="audio/mpeg"
       />
-      <guid>episode-7-unique-id</guid>
+      <guid>episode-8-unique-id</guid>
       <itunes:duration>30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
