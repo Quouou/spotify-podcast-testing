@@ -5,14 +5,17 @@
     <title>Lorim</title>
     <link>https://github.com/Quouou/spotify-podcast-testing</link>
     <language>en-us</language>
-    <description></description>
+    <description>Your real Lorim description here</description>
     
     <!-- Owner/Contact Information -->
-    <itunes:author>Reu</itunes:author>
     <itunes:owner>
+      <itunes:name>Reu</itunes:name>
       <itunes:email>sussy00001@gmail.com</itunes:email>
     </itunes:owner>
     
+    <itunes:image href="https://YOUR_REAL_COVER_URL_HERE" />
+    <itunes:author>Reu</itunes:author>
+
     <!-- Podcast Artwork -->
     <itunes:image href=""/>
     <itunes:author>Your Name</itunes:author>
