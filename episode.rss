@@ -7,8 +7,14 @@
     <language>en-us</language>
     <description>Your podcast description</description>
     
+    <!-- Owner/Contact Information -->
+    <itunes:owner>
+      <itunes:name>Your Name</itunes:name>
+      <itunes:email>sussy00001@gmail.com</itunes:email>
+    </itunes:owner>
+    
     <!-- Podcast Artwork -->
-    <itunes:image href="https://github.com/Quouou/spotify-podcast-testing/releases/download/beta/artwork.jpg"/>
+    <itunes:image href=""/>
     <itunes:author>Your Name</itunes:author>
     <itunes:category text="Technology"/>
     
