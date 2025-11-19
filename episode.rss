@@ -20,7 +20,7 @@
     <item>
       <title>Episode 11111: Getting Started testing</title>
       <description>In this episode, we talk about getting started with podcasting.</description>
-      <pubDate>Tue, 19 Nov 2024 01:46:00 GMT</pubDate>
+      <pubDate>Wed, 19 Nov 2024 01:46:00 GMT</pubDate>
       <enclosure url="https://github.com/Quouou/spotify-podcast-testing/releases/download/beta/audio.mp3" length="22000000" type="audio/mpeg"/>
       <guid>episode-1-unique-id</guid>
       <itunes:duration>30:00</itunes:duration>
