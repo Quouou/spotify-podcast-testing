@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <!-- Podcast Information -->
-    <title>Lorem Ipsum</title>
-    <link>https://mywebsite.com/podcast</link>
+    <title>Lorim</title>
+    <link>https://github.com/Quouou/spotify-podcast-testing</link>
     <language>en-us</language>
-    <description>A podcast about awesome topics</description>
+    <description>Your podcast description</description>
     
     <!-- Podcast Artwork -->
-    <itunes:image href=""/>
-    <itunes:author>John Doe</itunes:author>
+    <itunes:image href="https://github.com/Quouou/spotify-podcast-testing/releases/download/beta/artwork.jpg"/>
+    <itunes:author>Your Name</itunes:author>
     <itunes:category text="Technology"/>
     
     <item>
