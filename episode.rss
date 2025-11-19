@@ -35,7 +35,7 @@
     <item>
       <title>Episode 33333: Getting Started testing33</title>
       <description>Something Something.</description>
-      <pubDate>Wed, 19 Nov 2025 02:44:00 GMT</pubDate>
+      <pubDate>Wed, 19 Nov 2025 02:55:00 GMT</pubDate>
       <enclosure url="https://github.com/Quouou/spotify-podcast-testing/releases/download/beta/audio.mp3" length="22000000" type="audio/mpeg"/>
       <guid>episode-3-unique-id</guid>
       <itunes:duration>30:00</itunes:duration>
