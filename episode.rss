@@ -42,6 +42,16 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>Episode 44444: Getting Started testing44</title>
+      <description>Something Something.</description>
+      <pubDate>Wed, 19 Nov 2025 03:03:00 GMT</pubDate>
+      <enclosure url="https://github.com/Quouou/spotify-podcast-testing/releases/download/beta/audio.mp3" length="22000000" type="audio/mpeg"/>
+      <guid>episode-4-unique-id</guid>
+      <itunes:duration>30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     
   </channel>
 </rss>
