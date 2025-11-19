@@ -52,6 +52,16 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+   <item>
+      <title>Episode 55555: Getting Started testing55</title>
+      <description>Something Something.</description>
+      <pubDate>Wed, 19 Nov 2025 03:15:00 GMT</pubDate>
+      <enclosure url="https://github.com/Quouou/spotify-podcast-testing/releases/download/beta/audio.mp3" length="22000000" type="audio/mpeg"/>
+      <guid>episode-5-unique-id</guid>
+      <itunes:duration>30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     
   </channel>
 </rss>
