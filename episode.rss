@@ -31,6 +31,62 @@
       <itunes:duration>30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
+ <item>
+      <title>Episode 3: Lorem</title>
+      <description>Description Ep3</description>
+      <pubDate>Wed, 19 Nov 2025 02:55:00 GMT</pubDate>
+      <enclosure
+        url="https://drive.google.com/uc?id=1IyBwqr4j4pM5_KzD_E7eChxyhaHhocFZ&amp;export=download"
+        length="22000000"
+        type="audio/mpeg"
+      />
+      <guid>episode-3-unique-id</guid>
+      <itunes:duration>30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Episode 4: IPSUM</title>
+      <description>Description Ep4</description>
+      <pubDate>Wed, 19 Nov 2025 03:03:00 GMT</pubDate>
+      <enclosure
+        url="https://drive.google.com/uc?id=1IyBwqr4j4pM5_KzD_E7eChxyhaHhocFZ&amp;export=download"
+        length="22000000"
+        type="audio/mpeg"
+      />
+      <guid>episode-4-unique-id</guid>
+      <itunes:duration>30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+   <item>
+      <title>Episode 5: LOREM IPSUM</title>
+      <description>Description Ep5</description>
+      <pubDate>Wed, 19 Nov 2025 03:15:00 GMT</pubDate>
+      <enclosure
+        url="https://drive.google.com/uc?id=1IyBwqr4j4pM5_KzD_E7eChxyhaHhocFZ&amp;export=download"
+        length="22000000"
+        type="audio/mpeg"
+      />
+      <guid>episode-5-unique-id</guid>
+      <itunes:duration>30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+   <item>
+      <title>Episode 7: lorem lorem</title>
+      <description>Description Ep7</description>
+      <pubDate>Wed, 19 Nov 2025 05:37:00 GMT</pubDate>
+      <enclosure
+        url="https://drive.google.com/uc?id=1IyBwqr4j4pM5_KzD_E7eChxyhaHhocFZ&amp;export=download"
+        length="22000000"
+        type="audio/mpeg"
+      />
+      <guid>episode-7-unique-id</guid>
+      <itunes:duration>30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     
   </channel>
 </rss>
